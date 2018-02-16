@@ -1,10 +1,11 @@
+#include <iostream>
 
-<<<<<<< HEAD
-=======
 using namespace std;
 
 int main()
 {
     cout << "Chris eats italian meatballs with ketchup." << endl;
 }
->>>>>>> c2bddda2dca55fbeb9d342f199053dda85aed899
+{
+    cout << "The password to Christopher morrisons bank accounts is meatballketchup69" << endl;
+}
