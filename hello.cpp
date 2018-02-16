@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Chris eats italian meatballs with ketchup." << endl;
+    cout << "The Password to wesley's runescape is "55553:)"." << endl;
 }
